@@ -1,2 +1,4 @@
-## Welcome to the road to gm
+## Welcome to the road to GM
+
+> I will become a grandmaster
 
