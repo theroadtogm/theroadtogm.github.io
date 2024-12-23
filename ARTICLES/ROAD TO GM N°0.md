@@ -1,4 +1,4 @@
-Today's date is Monday, the twenty-third of December. In just 3 days, I will be competing in a chess tournament in Auxerre, France.
+## Today's date is Monday, the twenty-third of December. In just 3 days, I will be competing in a chess tournament in Auxerre, France.
 
 Today is a great day to set a goal that I have had in mind for a very long time. I want to become a chess Grandmaster. My current classical rating is 1900 FIDE (but I must say that I am currently 1913 live, thanks to a draw against a 2300 IM and another against a 1800). So, doing the math, we can see that I need another whopping 600 points to achieve the title.
 
